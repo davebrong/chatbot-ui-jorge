@@ -1,5 +1,6 @@
-import { LocalDatabase } from '@chatbot-ui/local-storage';
+import { ClientDatabase } from '@chatbot-ui/supabase';
 
 export const ChatConfig = {
-  database: LocalDatabase,
+  database: ClientDatabase,
 };
+
