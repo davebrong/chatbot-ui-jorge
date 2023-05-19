@@ -2,10 +2,6 @@
 
 Chatbot UI is an open source chat UI for AI models.
 
-<a href="https://discord.gg/q9AQP2w6gK">
-  <img src="https://discordapp.com/api/guilds/1103099861215232010/widget.png?style=banner2" alt="Discord Banner"/>
-</a>
-
 ![Chatbot UI](./public/screenshots/main_screenshot.png)
 
 See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=AowqkodyK6B4JccSOxSPew).
@@ -35,7 +31,7 @@ See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=
 
 Host your own live version of Chatbot UI with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjorge-menjivar%2Fchatbot-ui)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdavebrong%2Fchatbot-ui-jorge)
 
 ## Usage
 
