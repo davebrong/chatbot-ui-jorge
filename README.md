@@ -35,7 +35,7 @@ See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=
 
 Host your own live version of Chatbot UI with Vercel.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fjorge-menjivar%2Fchatbot-ui)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fdavebrong%2Fchatbot-ui-jorge)
 
 ## Usage
 
